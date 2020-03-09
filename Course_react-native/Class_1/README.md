@@ -35,5 +35,7 @@ example:
     o.greet = function(){
         console.log('hi!');
     }
+```
+
 Another way is using the literal object, that is:
 ´´´casdfas´´´
