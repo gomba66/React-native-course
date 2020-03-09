@@ -17,5 +17,3 @@ This course on app programming with React Native will teach you:
 - Submit and test applications 
 
 If you have no experience in web programming, we recommend you take our Introduction to Web course. If you already have knowledge of web programming and want to become an expert on the web, we recommend our Web Programming course.
-
-Translated with www.DeepL.com/Translator (free version)
