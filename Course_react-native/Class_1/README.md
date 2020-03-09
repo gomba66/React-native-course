@@ -27,7 +27,8 @@ writing for example:
 ```const o = new Object()```
 and then you can fill the object using the *dot notation*
 example:
-```const o = new Object()
+```
+    const o = new Object()
     o.firstName = "Daniel";
     o.lastName = 'Ramirez';
     o.isLearning = True;
